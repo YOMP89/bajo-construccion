@@ -20,4 +20,3 @@ Proyecto de página web temporal para mostrar un mensaje de "Bajo Construcción"
   - SEO básico implementado
 
 
-## Estructura del Proyecto
